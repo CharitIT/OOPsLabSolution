@@ -1,7 +1,7 @@
 package service;
 
 public class CredentialService {
-
+    //Credential Service Class
 	void generateEmailAddress(String empName,String dept){
 		System.out.println("Email --> "+empName+"@"+dept+".company.com");
 	}
